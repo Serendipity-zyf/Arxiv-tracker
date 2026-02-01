@@ -2,6 +2,7 @@ categories: ["cs.CV", "cs.LG", "cs.AI"]
 keywords:
   - "LLM-based Agent"
   - "Agentic LLM"
+  - "PEFT"
   - "Controlled Text Generation"
   - "Controllable Text Generation"
   - "Multi-Agent Simulation"
