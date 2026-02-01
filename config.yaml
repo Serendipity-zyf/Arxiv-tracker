@@ -5,10 +5,12 @@ keywords:
   - "PEFT"
   - "Controlled Text Generation"
   - "Controllable Text Generation"
-  - "Multi-Agent Simulation"
-  - "Agent-based Simulation"
-  - "Social Simulation"
-  - "LLM-based social simulation"
+  - "Vision-Language Model Agent"
+  - "Visual Reasoning Agent"
+  - "Embodied Visual Agent"
+  - "Video-Language Agent"
+  - "Video Understanding Agent"
+  - "Multimodal reasoning over video"
 
 # exclude_keywords: # 选择排除的关键词
 #   - "Large Language Model"
